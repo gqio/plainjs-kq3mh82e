@@ -1,4 +1,4 @@
-# Standard JS WebComponent Starter-kit
+# Standard JS WebComponent Starter
 
 ## Links
 
